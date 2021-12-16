@@ -1,19 +1,17 @@
-## Gangs
-Currently gangs are just a private chat area for a group of up to 32 friends to communicate, but there are future plans for features to be added.
+## 公會
+現在公會只提供一個最多32個人的私人聊天區，但這裡有一些未來計劃加入的特色。  
+身會公會會長，當你瀏覽公會會員的個人檔案時，你將擁有額外三個選項:
+ - [踢除] - 你可以將公會會員踢出公會
+ - [權限] - 你可以給予權限給公會成員:
+   - 邀請 - 允許公會會員邀請他人加入公會
+   - 踢除 - 允許公會會員踢除其他會員
+   - 管理 - 允許公會會員增加或減少其他會員的權限
+ - [轉讓會長] - 當你不想當會長或想離開公會時，你可以將其他會員任命為公會長  
 
-As Gang Leader, you will have 3 additional options when visiting one of your gang members' profiles:
- - [KICK] - you can kick the gang member from the gang;
- - [PERMISSIONS] - here you can grant permissions to the gang member:
-   - Invite - it allows the gang member to invite other players to the gang;
-   - Kick  - it allows the gang member to kick other gang members;
-   - Manage - it allows the gang member to add or remove other gang members' permissions.
- - [TRANSFER LEADERSHIP] - you can set another gang member as the leader in case you don't want to be the leader anymore or want to leave the gang.
+身為公會會長，在公會聊天頻道裡，如果你點選右上角顯示公會人數的地方，你可以在那裏選擇[刪除公會]。  
 
-Also as the Leader, in the Gang chat, if you click on the numbers of players in the gang on the top right, you will be able to [DELETE GANG] there.
-
-
-## Friends
-To access your personal friends list, click on the floating menu and choose the 'people' icon. 
-You can add friends by going into a user's profile, scrolling down and clicking 'Add to Friend List'. You can do the same to remove a friend by clicking the 'Remove From Friend List' button.
-Adding someone to your friends list will not require the other person to accept the request. They will simply be added to your friends list.
-Viewing your friends list will allow you to see if they are online, idle or offline.
+## 好友
+點擊畫面的浮動選單(右下方的白色手機圖示)，選擇好友列表即可看到你的好友清單。  
+加好友的方法為:查看他的個人檔案，向下滑並點選"加入好友名單"。你可以用同樣的方式移除好友透過點選"從好友名單移除"按鈕。  
+加其他人為好友並不需要他的同意，這只會將他加入你的好友名單而已。  
+瀏覽好友清單可以讓你知道朋友們在線上、閒置或離線。  
