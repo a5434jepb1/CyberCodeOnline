@@ -1,34 +1,34 @@
 
 
-#### Here at CCO, we hope to maintain a friendly community. In order for everyone to have fun and enjoy the game, please familiarise yourself with the rules. 
+#### 在CCO裡，我們希望保持一個友善的環境。為了讓每個人都可以享受並在遊戲裡找到樂趣，請熟悉以下規則。
 
-> If you feel someone is violating one of the rules and no moderators are around, take a screenshot and report it via direct messaging the moderators in the [Discord server](https://discord.gg/JREx8xz).
-### Important Guideline
-* It is strongly recommended to play with only one account per person, as our system will flag alt accounts, preventing you from sending items between your accounts. *this can happen even if you only have one alt* (We will not help you move your items or unlock the account if the system flags you.)
-* Never ever use in-game chat (including email) to send any kind of sensitive/personal information. Game chat is NOT encrypted and NOT secure. CCO does not bare any responsibility to protect your information you write in chat. Bear in mind that moderators have access to the chat log for moderation purposes. 
+> 如果你認為有人正在侵犯規則並且沒有管理員在現場處理，請截圖並透過[Discord server](https://discord.gg/JREx8xz)給管理員。
+### 重點指南
+* 強烈推薦一個人只玩一個帳號。因為我們的系統會標記你的其他帳號，並阻止你在帳號間傳送物品。 *即使只用一個其他帳號也不行* (當系統標記你時，我們將不會幫你解除封帳或幫你傳送物品)
+* 絕對不要在遊戲內的聊天室(包括私人消息)傳送任何敏感/你的個人訊息。遊戲內的聊天訊息既**沒有**加密也**不**安全。你打在聊天室內的任何訊息CCO一概不負任何的責任。謹記管理員有權限對聊天紀錄做出適宜處置。
 
-### Game Rules
-* The use of bots and scripts are prohibited
-* No tool assistance
-* No excessive alts.
-* Don't exploit bugs, report them instead
-* Keep usernames family friendly
-* Advertising (global chat/discord/bio/gang motto) of Selling/Buying account/items for IRL money (both directly or indirectly) is not allowed
-* Tagging people for fun or with no real purpose is not allowed. This is to prevent people from creating accounts just so they can tag them (doing so will also breach the "No exceesive alts" rule) 
-* Any illegal activities will get you instantly banned -- including but not limited to -- harrassing underage person you met in game
+### 遊戲規則
+* 禁止使用外掛或腳本
+* 不使用其他工具協助
+* 不使用其他帳號
+* 禁止利用程式漏洞，並立即回報
+* 不使用兒童不宜的用戶名稱
+* 不允許廣告 (國際頻/discord/個人檔案/公會宣言)或使用現實貨幣購買/銷售 帳號/物品 
+* 不允許為了好玩或沒有實質目的的標記其他人。這是避免有人只為了標記帳號而創建其他帳號。(這樣做也同時違反了"不使用其他帳號"規則)
+* 任何不法行為都會讓你馬上被取締 -- 包括但不限於 -- 騷擾你在遊戲中遇到的未成年人 
 
-### Chat Rules
-**All rules are listed here, there is NO "unwritten rules", but be respectful and stop if other players don't like what you are sending in chat**
-#### Not Allowed: 
-* unfriendly, disrespectful to others opinion / offensive or pssive agressive messages (Expample, racist, sexist comments)
-* non-family-friendly chat
-* Spam / Troll 
-* Advertise / Mention of other game 
-* Impersonate others  
-* Place links in chat
+### 聊天室規則
+**所有規則都被列在這裡，這裡並沒有所謂的"不成文規定"。但當其他人不喜歡你的發言時，當個有風度的人停止再說下去**
+#### 不被允許的: 
+* 對他人意見不友善、不尊重的發言/具侵犯性或被動攻擊性的發言(例如:種族、性別歧視言論)
+* 兒少不宜的內容
+* 垃圾訊息/釣魚、煽動訊息
+* 廣告/提及其他遊戲
+* 模仿他人 
+* 在聊天室放外部連結
 
-#### Allowed(as long as you don't breach the rules above):
-* Emoji😃 / Kaomoji ~ヾ(＾∇＾) / 𝕹𝖔𝖓𝖊-𝖘𝖙𝖆𝖓𝖉𝖆𝖗𝖉 𝕱𝖔𝖓𝖙𝖘 (Must be easily readble and does not create chaos)
-* Roleplay
-* Discussing Politic, Religion, or COVID
-* Using any language in any chat channel
+#### 允許的(只要不違反上述規則):
+* Emoji(表情符號)😃 / Kaomoji(顏文字) ~ヾ(＾∇＾) / 𝕹𝖔𝖓𝖊-𝖘𝖙𝖆𝖓𝖉𝖆𝖗𝖉 𝕱𝖔𝖓𝖙𝖘(非標準字體) (須容易閱讀並不製造混亂)
+* 角色扮演
+* 討論政治、宗教或疫情
+* 在任何頻道上使用任何語言
